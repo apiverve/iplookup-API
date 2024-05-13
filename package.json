@@ -1,0 +1,32 @@
+{
+  "name": "@apiverve/iplookup",
+  "version": "1.0.0",
+  "description": "IP Lookup is a simple tool for looking up the location of an IP address. It returns the country, city, and more.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apiverve/iplookup-API.git"
+  },
+  "keywords": [
+    "ip lookup"," ip lookup api"," ip lookup tool"," ip lookup software"," ip lookup service"," ip lookup library"," ip lookup sdk"," ip lookup code"," ip lookup script"," ip lookup program"," ip lookup application"," ip lookup app"," ip lookup utility"," ip lookup helper"," ip lookup helper tool"," ip lookup helper software"," ip lookup helper service"," ip lookup helper library"," ip lookup helper sdk"," ip lookup helper code"," ip lookup helper script"," ip lookup helper program"," ip lookup helper application"," ip lookup helper app"," ip lookup helper tool"," ip lookup helper utility"," ip lookup helper"
+  ],
+  "author": "APIVerve <hello@apiverve.com> (http://apiverve.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/apiverve/iplookup-API/issues"
+  },
+  "homepage": "https://github.com/apiverve/iplookup-API",
+  "devDependencies": {
+    "mocha": "^2.3.4",
+    "chai": "^3.4.1",
+    "dotenv": "^2.0.0"
+  },
+  "dependencies": {
+    "node-fetch": "3.3.2",
+    "promise": "^7.1.1",
+    "request": "^2.69.0"
+  }
+}
